@@ -1,0 +1,16 @@
+[
+  {
+    "state": "green",
+    "cities": [
+      "green",
+      "blue"
+    ]
+  }
+  {
+    "state": "blue",
+    "cities": [
+      "green",
+      "blue"
+    ]
+  }
+]
