@@ -3,17 +3,17 @@
 
 [
   {
-    "state": "green",
+    "state": "1.0 Green",
     "cities": [
-      "green",
-      "blue"
+      "0.1 Green",
+      "0.1 Blue"
     ]
   },
   {
-    "state": "blue",
+    "state": "1.0 Blue",
     "cities": [
-      "green",
-      "blue"
+      "0.1 Green",
+      "0.1 Blue"
     ]
   }
 ]
