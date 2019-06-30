@@ -55,5 +55,185 @@
       "0.1 Green dom.pied (sf)",
       "0.1 Green rec.pied"
      ]
+  },
+  {
+    "state": "1.0 DD Blue",
+    "cities": [
+      "0.1 Green",
+      "0.1 Blue",
+      "0.1 D Blue",
+      "0.1 DD Blue",
+      "0.1 Blue Vio (sf)",
+      "0.1 Blue Vio (df)",
+      "0.1 D Green",
+      "0.1 DD Green",
+      "0.1 Turquoise",
+      "0.1 Green Opaline",
+      "0.1 Green dom.pied (df)",
+      "0.1 Green dom.pied (sf)",
+      "0.1 Green rec.pied"
+     ]
+  },
+  {
+    "state": "1.0 Blue Vio (sf)",
+    "cities": [
+      "0.1 Green",
+      "0.1 Blue",
+      "0.1 D Blue",
+      "0.1 DD Blue",
+      "0.1 Blue Vio (sf)",
+      "0.1 Blue Vio (df)",
+      "0.1 D Green",
+      "0.1 DD Green",
+      "0.1 Turquoise",
+      "0.1 Green Opaline",
+      "0.1 Green dom.pied (df)",
+      "0.1 Green dom.pied (sf)",
+      "0.1 Green rec.pied"
+     ]
+  },
+  {
+    "state": "1.0 Blue Vio (df)",
+    "cities": [
+      "0.1 Green",
+      "0.1 Blue",
+      "0.1 D Blue",
+      "0.1 DD Blue",
+      "0.1 Blue Vio (sf)",
+      "0.1 Blue Vio (df)",
+      "0.1 D Green",
+      "0.1 DD Green",
+      "0.1 Turquoise",
+      "0.1 Green Opaline",
+      "0.1 Green dom.pied (df)",
+      "0.1 Green dom.pied (sf)",
+      "0.1 Green rec.pied"
+     ]
+  },
+  {
+    "state": "1.0 D Green",
+    "cities": [
+      "0.1 Green",
+      "0.1 Blue",
+      "0.1 D Blue",
+      "0.1 DD Blue",
+      "0.1 Blue Vio (sf)",
+      "0.1 Blue Vio (df)",
+      "0.1 D Green",
+      "0.1 DD Green",
+      "0.1 Turquoise",
+      "0.1 Green Opaline",
+      "0.1 Green dom.pied (df)",
+      "0.1 Green dom.pied (sf)",
+      "0.1 Green rec.pied"
+     ]
+  },
+  {
+    "state": "1.0 DD Green",
+    "cities": [
+      "0.1 Green",
+      "0.1 Blue",
+      "0.1 D Blue",
+      "0.1 DD Blue",
+      "0.1 Blue Vio (sf)",
+      "0.1 Blue Vio (df)",
+      "0.1 D Green",
+      "0.1 DD Green",
+      "0.1 Turquoise",
+      "0.1 Green Opaline",
+      "0.1 Green dom.pied (df)",
+      "0.1 Green dom.pied (sf)",
+      "0.1 Green rec.pied"
+     ]
+  },
+  {
+    "state": "1.0 Turquoise",
+    "cities": [
+      "0.1 Green",
+      "0.1 Blue",
+      "0.1 D Blue",
+      "0.1 DD Blue",
+      "0.1 Blue Vio (sf)",
+      "0.1 Blue Vio (df)",
+      "0.1 D Green",
+      "0.1 DD Green",
+      "0.1 Turquoise",
+      "0.1 Green Opaline",
+      "0.1 Green dom.pied (df)",
+      "0.1 Green dom.pied (sf)",
+      "0.1 Green rec.pied"
+     ]
+  },
+  {
+    "state": "1.0 Green Opaline",
+    "cities": [
+      "0.1 Green",
+      "0.1 Blue",
+      "0.1 D Blue",
+      "0.1 DD Blue",
+      "0.1 Blue Vio (sf)",
+      "0.1 Blue Vio (df)",
+      "0.1 D Green",
+      "0.1 DD Green",
+      "0.1 Turquoise",
+      "0.1 Green Opaline",
+      "0.1 Green dom.pied (df)",
+      "0.1 Green dom.pied (sf)",
+      "0.1 Green rec.pied"
+     ]
+  },
+  {
+    "state": "1.0 Green dom.pied (df)",
+    "cities": [
+      "0.1 Green",
+      "0.1 Blue",
+      "0.1 D Blue",
+      "0.1 DD Blue",
+      "0.1 Blue Vio (sf)",
+      "0.1 Blue Vio (df)",
+      "0.1 D Green",
+      "0.1 DD Green",
+      "0.1 Turquoise",
+      "0.1 Green Opaline",
+      "0.1 Green dom.pied (df)",
+      "0.1 Green dom.pied (sf)",
+      "0.1 Green rec.pied"
+     ]
+  },
+  {
+    "state": "1.0 Green dom.pied (sf)",
+    "cities": [
+      "0.1 Green",
+      "0.1 Blue",
+      "0.1 D Blue",
+      "0.1 DD Blue",
+      "0.1 Blue Vio (sf)",
+      "0.1 Blue Vio (df)",
+      "0.1 D Green",
+      "0.1 DD Green",
+      "0.1 Turquoise",
+      "0.1 Green Opaline",
+      "0.1 Green dom.pied (df)",
+      "0.1 Green dom.pied (sf)",
+      "0.1 Green rec.pied"
+     ]
+  },
+  {
+    "state": "1.0 Green rec.pied",
+    "cities": [
+      "0.1 Green",
+      "0.1 Blue",
+      "0.1 D Blue",
+      "0.1 DD Blue",
+      "0.1 Blue Vio (sf)",
+      "0.1 Blue Vio (df)",
+      "0.1 D Green",
+      "0.1 DD Green",
+      "0.1 Turquoise",
+      "0.1 Green Opaline",
+      "0.1 Green dom.pied (df)",
+      "0.1 Green dom.pied (sf)",
+      "0.1 Green rec.pied"
+     ]
   }
 ]
